@@ -1,0 +1,1 @@
+python %0\..\start_arma_dedi.py
